@@ -117,7 +117,7 @@ h1 span {
         margin-right: 0;
         margin-bottom: 15px; /* Add space below the image */
         width: auto;
-        height: auto;
+        height: 100px;
     }
 
     .ai-info h2 {
