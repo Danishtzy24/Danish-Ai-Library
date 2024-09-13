@@ -6,6 +6,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    overflow-y: auto; /* Scroll vertically for the whole body */
 }
 
 header {
@@ -33,8 +34,6 @@ h1 span {
     flex-direction: column;
     align-items: center;
     width: 80%;
-    max-height: auto;
-    overflow-y: auto; /* Scroll vertically */
     margin-top: 20px;
     background: rgba(255, 255, 255, 0.1);
     border-radius: 10px;
