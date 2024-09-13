@@ -116,8 +116,8 @@ h1 span {
     .ai-profile {
         margin-right: 0;
         margin-bottom: 15px; /* Add space below the image */
-        width: 70px;
-        height: 95px;
+        width: auto;
+        height: auto;
     }
 
     .ai-info h2 {
@@ -144,8 +144,8 @@ h1 span {
     }
 
     .ai-profile {
-        width: 60px;
-        height: 100px;
+        width: auto;
+        height: auto;
     }
 
     .ai-info h2 {
